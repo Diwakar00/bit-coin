@@ -1,0 +1,8 @@
+.container {
+  border: 5px soild;
+  width: 30%;
+  height: 150px;
+  box-sizing: border-box;
+  display: inline-grid;
+  box-shadow: 0 1px 2px;
+}
